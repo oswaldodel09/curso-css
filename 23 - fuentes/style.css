@@ -1,0 +1,10 @@
+body{
+    background-color: #333;
+    color: aliceblue;
+}
+
+.icon{
+    font-size: 2rem;
+    fill: red;
+
+}

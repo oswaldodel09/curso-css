@@ -1,0 +1,19 @@
+body{
+    background-color: mediumorchid;
+    background-color: hsl(120, 100%, 50%, .5);
+}
+
+/* .main{
+    background-color: currentColor;
+    color: aquamarine;
+} */
+
+.box{
+    /* border-right: 100px solid red; */
+    /* border-top: 100px solid transparent; */
+    width: 200px;
+    height: 200px;
+    background-color: hsl(0, 79%, 72%);
+    /* border: 5px solid currentColor; */
+    box-shadow: 5px 5px 10px rgb(0 0 0 /0.5);
+}

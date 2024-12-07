@@ -1,0 +1,32 @@
+html{
+    height: 300px;
+}
+
+body{
+    background-color: #333;
+    color: lightcoral;
+    margin: 0;
+}
+
+/* .header{
+    background-color: lightskyblue;
+    text-align: center;
+    height: 100vh;
+} */
+
+.box{
+    width: 100%;
+    max-width: 600px ;
+    min-width: 300px;
+    height: 200px;
+    background-color: lightgreen;
+}
+
+/* .box-children{
+    position: sticky;
+    top: 0;
+    width: 50%;
+    width: 50vw;
+    height: 150px;
+    background-color: lightseagreen;
+} */

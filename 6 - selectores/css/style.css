@@ -1,0 +1,76 @@
+/* *{
+    background-color: lightcoral;
+}
+
+h1{
+    background-color: aqua;
+}
+
+p{
+    background-color: azure;
+}
+ul{
+    background-color: blue;
+}
+li{
+    background-color: blueviolet;
+} */
+
+/* #title{
+    background-color: aquamarine;
+}
+
+.title{
+    background-color: blueviolet;
+}
+
+.text{
+    background-color: aqua;
+} */
+
+/* [href]{
+    background-color: aqua;
+}
+
+[href="https://google.com"]{
+    background-color: orange;
+}
+
+[href^="color"]{
+    background-color:red;
+}
+
+[href*="modo"]{
+    background-color:green;
+}
+
+[href$="azul"]{
+    background-color: steelblue;
+}
+
+[lang|="en"]{
+    background-color: green ;
+} */
+/* 
+.text,
+.text-2,
+.text-3,
+.text-4{
+    background-color: violet;
+} */
+
+div .title-2{
+    /* background-color: blueviolet; */
+}
+
+.text-2 + .title-2{
+    /* background-color: tomato; */
+}
+
+.text-2 ~ p{
+    /* background-color: teal; */
+}
+
+.container > p{
+    background-color: tomato;
+}
